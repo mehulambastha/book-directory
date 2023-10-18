@@ -1,0 +1,19 @@
+{
+  "name": "book_directory",
+  "version": "1.0.0",
+  "description": "Task for intern at TheGoodGameTheory",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehulambastha/book-directory.git"
+  },
+  "author": "Mehul Ambastha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehulambastha/book-directory/issues"
+  },
+  "homepage": "https://github.com/mehulambastha/book-directory#readme"
+}
